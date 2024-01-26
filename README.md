@@ -1,5 +1,5 @@
 # DataGrantsforARB
-This repository organizes work as outlined in the Data Grants proposal to ThankARB and the ARB DAO in Q4 of 2023.  The total amount of small grants to be paid out is $110,000 or the equivalent in ARB.  
+This repository organizes work as outlined in the Data Grants proposal to ThankARB and the ARB DAO in Q4 of 2023.  The total amount of small grants to be paid out is $110,000 or the equivalent in ARB.  In addition to the Permissionless Suggestion Box outlined below, we will also be working on an anti-Fraud hackathon to kick off in mid to late March; stay tuned.  
 
 Please read more about this effort in the proposal made to ThankARB in November of 2023.  This initiative was activated with initial payments made on January 19, 2024:
 (https://docs.google.com/document/d/1SpK7ywDFAgKAyweoIjBm7JKyrmxNqM24mx15d73WPMY/edit?usp=sharing)
