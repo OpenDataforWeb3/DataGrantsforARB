@@ -22,8 +22,8 @@ Here are a few practical details:
 
 # Timelines
 
-We want to move as quickly as possible.  Based on community discussions these timelines may change.  However, the current thought is to kick off soliciting issues in January and keep it open until February 16th. Again, opening an issue is entirely permissionless; these issues are then analyzed by the council to come up with the bounty list.  
+We want to move as quickly as possible.  Based on community discussions these timelines may change.  However, the current thought is to kick off soliciting issues in January and keep it open until the end of February. Again, opening an issue is entirely permissionless; these issues are then analyzed by the council to come up with the bounty list.  
 
-We are asking our council to argue and vote over which issues to attach bounties ongoing, starting February 1st.  We will then give developers and data scientists and others until the end of February the 25th to fulfill these bounties.  
+We are asking our council to argue and vote over which issues to attach bounties ongoing, tentatively starting February 1st.  We will then give developers and data scientists and others until the middle of March to fulfill these bounties.  
 
-Once again council will judge and we will send to the ThankARB and ARB multisig the payouts for execution by the end of February, ie February 29th.  
+Once again council will judge and we will send to the ThankARB and ARB multisig the payouts for execution.  We are planning to do this at least twice, once at the end of February and a second time on March 15th.  This way we will have two sprints, the idea being that this will give the community flexibility and the payment of initial bounties will drive additional interest and momentum.  
